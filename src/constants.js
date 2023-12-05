@@ -1,0 +1,1 @@
+export const EVENT_REGISTRATION_COUNT_LIMIT = 3;
